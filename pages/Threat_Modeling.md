@@ -5,10 +5,6 @@ author: Victoria Drake
 contributors:
 tags: Threat Modeling
 permalink: /Threat_Modeling
-redirect_from:
-  - /Application_Threat_Modeling
-  - /CRV2_AppThreatModeling
-  - /Threat_Modeling_Outputs
 ---
 
 {% include writers.html %}
